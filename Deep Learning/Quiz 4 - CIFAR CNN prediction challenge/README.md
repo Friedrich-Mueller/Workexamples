@@ -1,0 +1,1 @@
+This quiz' task was to implement a cnn that archives above 65% accuracy on a subset of the CIFAR-10 dataset.

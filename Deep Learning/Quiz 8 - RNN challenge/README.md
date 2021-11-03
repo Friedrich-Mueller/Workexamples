@@ -1,0 +1,1 @@
+This quiz' task was to implement a rnn that archives above 95% accuracy on a subset of 400 labeled sequences, each of length 400, each constisting of a string of letters   [‘A’, ‘C’, ‘G’, ’T’] and belonging to one of five categories/classes labelled [0,…,4].

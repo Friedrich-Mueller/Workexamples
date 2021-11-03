@@ -1,0 +1,1 @@
+This quiz' task was to implement a cnn that archives above 93% accuracy on the MNIST dataset.
