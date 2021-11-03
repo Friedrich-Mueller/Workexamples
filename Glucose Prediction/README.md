@@ -18,9 +18,9 @@ The android app allows the input (and recording via a SQLite database) of 5 valu
 
 Screenshots of the app in current state:
 
-![](images/mainactivity.jpg)
+![](images/mainactivity.png)
 
-![](images/activity_display_message.jpg)
+![](images/activitydisplaymessage.png)
 
 TODO for first running version:
 
