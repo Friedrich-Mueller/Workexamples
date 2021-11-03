@@ -1,0 +1,1 @@
+This is a small compilation of notebooks from the module Deep Learning. In general, the weekly tasks were of very theoretical nature, with the exception of these three tasks, in which it was the goal to archive a certain accuracy on relatively basic ML tasks.
