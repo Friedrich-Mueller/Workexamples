@@ -1,3 +1,4 @@
+The following is a piece of readme which was part of my work during the Software Project "Privacy-Preserving Machine Learning".
 
 ### Membership Inference Attack
 
