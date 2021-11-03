@@ -12,9 +12,9 @@ Following, a model is trained with the generated data.
 
 For more understanding:
 
-The Freestyle Libre 2 device holds, among others, records for time and glucose level, which are being recorded automatically every 15 minutes.
+The Freestyle Libre 2 device holds, among others, records for datetime and glucose level, which are being recorded automatically every 15 minutes.
 
-The android app allows the input (and recording via a SQLite database) of 5 values, which together build the input vector in regards to machine learning. Those are time, glucose level at the time, consumed carb units at the time, injected insulin at the time,  and injected long term insulin (injected once, twice or in some cases three times a day). Using the input vectors time value allows to connect a later in time glucose level from the FreeStyle Libre 2 data, thereby creating input vector and (regression) label and allowing the usage of machine learning for predictions.
+The android app allows the input (and recording via a SQLite database) of 5 values, which together build the input vector in regards to machine learning. Those are date, time, glucose level at the time, consumed carb units at the time, injected insulin at the time,  and injected long term insulin (injected once, twice or in some cases three times a day). Using the input vectors date and time value allows to connect a later in time glucose level from the FreeStyle Libre 2 data, thereby creating input vector and (regression) label and allowing the usage of machine learning for predictions.
 
 Screenshots of the app in current state:
 
