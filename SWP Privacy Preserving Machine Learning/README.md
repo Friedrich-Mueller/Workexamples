@@ -1,4 +1,4 @@
-The following is a piece of readme which was part of my work during the Software Project "Privacy-Preserving Machine Learning".
+The following is a piece of readme which was part of my contributions during the Software Project "Privacy-Preserving Machine Learning".
 
 <hr style="border:2px solid grey"> </hr>
 
