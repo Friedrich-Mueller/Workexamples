@@ -1,7 +1,3 @@
-The following is a piece of readme which was part of my contributions during the Software Project "Privacy-Preserving Machine Learning".
-
-<hr style="border:2px solid grey"> </hr>
-
 ### Membership Inference Attack
 
 The aim of a membership inference attack is to find whether a sample given to a trained machine learning model was part of its training data or not, which can lead to a breach of privacy. Specifically, a privacy breach in that regard consists of inferring values of unintended (sensitive) attributes used as input to a model, allowing assumptions about the members of a population as well as specific members that were used to train a model.
