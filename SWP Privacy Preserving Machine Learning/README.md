@@ -35,7 +35,7 @@ For a better understanding, the following two graphics visualize the functionali
 | target model | this model was trained on an unknown dataset (X,y)<sub>target</sub> of which members are to be infered via the attack |
 | attack model | this model is used to attack the target model and is trained on a datset (X,y)<sub>attack</sub> which should preferably be as similar as possible to (X,y)<sub>target</sub> |
 
-![](docs/mia_blackbox.png)
+![](images/mia_blackbox.png)
 
 #### Membership Inference Back-Box Label-Only - Decision Boundary
 
@@ -52,7 +52,7 @@ For a better understanding, the following two graphics visualize the functionali
 | target model | this model was trained on an unknown dataset (X,y)<sub>target</sub> of which members are to be infered via the attack |
 | attack model | this model is used to attack the target model and is trained on a dataset (X,y)<sub>attack</sub> which should preferably be as similar as possible to (X,y)<sub>target</sub> |
 
-![](docs/mia_blackbox_decision_boundary.png)
+![](images/mia_blackbox_decision_boundary.png)
 
 #### Membership Inference Black-Box Rule-Based
 
@@ -66,3 +66,5 @@ For a better understanding, the following two graphics visualize the functionali
 |:-------------:|:-------------:|
 | target model | this model was trained on an unknown dataset (X,y)<sub>target</sub> of which members are to be inferred via the attack |
 | attack model | no attack model is used for this attack, as records of (X,y)<sub>unkown</sub> are inferred as member/non-member of (X,y)<sub>target</sub> based on the target model's classification correctness |
+
+![](images/mia_blackbox_rule_based.png)
