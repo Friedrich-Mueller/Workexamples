@@ -1,1 +1,1 @@
-This is a piece of a readme which was part of my contributions during the Software Project "Privacy-Preserving Machine Learning", which was carried out by two teams of 6 members each in the shape of a biweekly SCRUM schedule. The whole project can be found [here](https://github.com/privML/privacy-evaluator).
+This is a piece of a readme which was part of my contributions during the Software Project "Privacy-Preserving Machine Learning", which was carried out by two teams of 6 members each in the shape of a biweekly SCRUM schedule.
